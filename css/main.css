@@ -660,7 +660,7 @@ header {
     }
     .basketball_guy {
         left: 430px;
-        top: 10px;
+        top: -25px;
     }
     .basketball_guy_position_2 {
         display: inline;
@@ -670,11 +670,12 @@ header {
         display: none;
     }
     .third_line {
+	top:150px;
         left: 700px;
         height: 300px;
     }
     .fourth_line {
-        top: 75px;
+        top: 50px;
         left: 970px;
         height: 200px;
     }
