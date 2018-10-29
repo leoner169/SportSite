@@ -110,6 +110,7 @@ header {
 
 .nav-list-link:hover, .coach_link:hover {
     text-decoration: underline;
+    color: #9071ea;
 }
 
 .purple_button {
