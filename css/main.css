@@ -334,12 +334,12 @@ header {
 
 .sport_block:nth-child(1) {
     background-color: white;
-    color: #000000;
+    color: #000;
 }
 
 .sport_block:nth-child(2) {
     background-color: rgba(94, 66, 176, 0.06);
-    color: #000000;
+    color: #000;
 }
 
 .sport_block:nth-child(3) {
@@ -379,7 +379,7 @@ header {
 
 .foot_tittle_1::before, .foot_tittle_2::before, .foot_tittle_3::before, .foot_tittle_4::before {
     content: '01';
-    color: #000000;
+    color: #000;
     font-family: "Bold";
     font-size: 18px;
     font-weight: 700;
@@ -476,7 +476,7 @@ header {
         letter-spacing: 1.4px;
     }
     .foot_text {
-        color: #000000;
+        color: #000;
         font-size: 15px;
         letter-spacing: 0.75px;
     }
@@ -534,12 +534,12 @@ header {
 
 .sport_block:nth-child(1) {
     background-color: white;
-    color: #000000;
+    color: #000;
 }
 
 .sport_block:nth-child(2) {
     background-color: rgba(94, 66, 176, 0.06);
-    color: #000000;
+    color: #000;
 }
 
 .sport_block:nth-child(3) {
@@ -558,7 +558,7 @@ header {
 
 .foot_tittle_1::before, .foot_tittle_2::before, .foot_tittle_3::before, .foot_tittle_4::before {
     content: '01';
-    color: #000000;
+    color: #000;
     font-family: "Bold";
     font-size: 18px;
     font-weight: 700;
@@ -765,7 +765,7 @@ header {
 .card_text {
     margin: 0;
     padding: 50px 0 200px 0;
-    color: #000000;
+    color: #000;
     font-family: "Regular";
     font-size: 24px;
     font-weight: 400;
