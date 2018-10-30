@@ -943,6 +943,7 @@ header {
 /* FOOTER */
 
 footer {
+    background-color: rgba(16, 8, 122, 0.815);
     background-image: url(../img/bg_footer.png);
     padding: 30px 0 50px 0;
     background-repeat: no-repeat;
