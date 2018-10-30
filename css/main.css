@@ -62,7 +62,7 @@ header {
 }
 
 .header_slogan2 {
-    padding: 0px 0 10px 470px;
+    padding: 0 0 10px 470px;
     position: relative;
     z-index: 1;
 }
@@ -140,7 +140,7 @@ header {
     text-decoration: none;
 }
 
-.apple_link1 {
+.apple_link1, .google_link1 {
     color: #ffffff;
     font-family: "Regular";
     font-size: 14px;
@@ -150,7 +150,7 @@ header {
     margin: 0;
 }
 
-.apple_link2 {
+.apple_link2, .google_link2 {
     color: #ffffff;
     font-family: "Bold";
     font-size: 14px;
@@ -184,7 +184,7 @@ header {
         padding-left: 95px
     }
     .header_slogan2 {
-        padding: 0px 0 10px 200px;
+        padding: 0 0 10px 200px;
     }
     .line {
         display: none;
@@ -225,10 +225,10 @@ header {
 @media screen and (max-width: 1009px) {
     .header_slogan1 {
         margin-right: 50px;
-        padding-left: 0px;
+        padding-left: 0;
     }
     .header_slogan2 {
-        padding: 0px 0 10px 210px;
+        padding: 0 0 10px 210px;
     }
     .line_768::after {
         height: 320px;
@@ -261,7 +261,7 @@ header {
     .purple_button:not(:last-of-type) {
         margin-right: 5px;
     }
-    .apple_link1, .apple_link2 {
+    .apple_link1, .apple_link2, .google_link1, .google_link2 {
         font-size: 8px;
     }
     .apple_svg {
@@ -387,8 +387,8 @@ header {
     letter-spacing: 0.9px;
     border-bottom: 2px solid #5e42b0;
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 0;
+    left: 0;
 }
 
 .foot_tittle_2::before {
@@ -566,8 +566,8 @@ header {
     letter-spacing: 0.9px;
     border-bottom: 2px solid #5e42b0;
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 0;
+    left: 0;
 }
 
 .foot_tittle_2::before {
